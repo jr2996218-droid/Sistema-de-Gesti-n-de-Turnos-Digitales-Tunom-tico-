@@ -3,4 +3,4 @@ El proyecto consiste en el modelado completo de uns sistema de gestion de turnos
 
 El diseño del sistema aplica patrones de diseño reconocidos de la clasificación Gang of Four(GoF), especialmente los patrones Singleton, Prototype, Adapter y Bridge
 
-![Caso_de_uso_patrones_de_diseño.png](imagenes/Caso_de_uso_patrones_de_diseño.png)
+![Caso_de_uso](imagenes/Caso_de_uso.png)
