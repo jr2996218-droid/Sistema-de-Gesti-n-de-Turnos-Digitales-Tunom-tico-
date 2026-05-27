@@ -1,1 +1,1 @@
-# Sistema-de-Gesti-n-de-Turnos-Digitales-Tunom-tico-
+# Sistema Gestion de Turnos Digitales Tunomatico
